@@ -1,3 +1,0 @@
-# ansible-config-mgt
-
- Testing 
